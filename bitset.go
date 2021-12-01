@@ -1,7 +1,7 @@
 package bloom
 
 import (
-	"github.com/bits-and-blooms/bitset"
+	"github.com/willf/bitset"
 )
 
 type BitSet struct {
