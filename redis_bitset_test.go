@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/alicebob/miniredis"
-	"github.com/bculberson/bloom"
+	"github.com/roaldi/bloom"
 	"github.com/garyburd/redigo/redis"
 )
 
